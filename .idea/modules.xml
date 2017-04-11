@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-many-to-many.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-many-to-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-many-to-many_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-many-to-many_main.iml" group="jpa-many-to-many" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-many-to-many_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-many-to-many_test.iml" group="jpa-many-to-many" />
+    </modules>
+  </component>
+</project>
